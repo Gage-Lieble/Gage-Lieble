@@ -1,5 +1,5 @@
 # Hey! I'm Gage :technologist:
-<img src="https://gagelieble.com/static/portfolio_app/githubfiles/GitHubCover.svg">
+<img src="https://gagelieble.com/static/portfolio_app/githubfiles/GithubCoverwhite.svg">
 <!--
 **Gage-Lieble/Gage-Lieble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
