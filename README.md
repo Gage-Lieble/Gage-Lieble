@@ -6,8 +6,6 @@ I'm a software developer who is always striving to learn new technologies! You t
  - [LinkedIn](https://www.linkedin.com/in/gage-lieble/)
  - [Portfolio](https://www.gagelieble.com/)
  - [Github](https://github.com/Gage-Lieble) * Whoops! you're already here lol
-<br>
-<br>
 
 ## More...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&show_icons=true)
