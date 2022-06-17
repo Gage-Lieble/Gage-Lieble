@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!:love_you_gesture:
 <img src="https://gagelieble.com/static/portfolio_app/githubfiles/GitHubCover.svg">
 <!--
 **Gage-Lieble/Gage-Lieble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
