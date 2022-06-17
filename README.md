@@ -5,6 +5,10 @@ I'm a software developer who is always striving to learn new technologies! You t
 ## Find me online! :globe_with_meridians:
  - [LinkedIn](https://www.linkedin.com/in/gage-lieble/)
  - [Portfolio](https://www.gagelieble.com/)
- 
-![Anurag's GitHub stats][align:'center'](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&show_icons=true)
+
+<br>
+<br>
+
+## More...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&show_icons=true)
 
