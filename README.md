@@ -6,7 +6,7 @@ I'm a software developer who is always striving to learn new technologies! You t
  - [LinkedIn](https://www.linkedin.com/in/gage-lieble/)
  - [Portfolio](https://www.gagelieble.com/)
  - [Twitter](https://twitter.com/gage_lieble)
- - [Github](https://github.com/Gage-Lieble) * Whoops! you're already here lol
+
 
 <br>
 
