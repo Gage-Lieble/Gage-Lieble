@@ -5,7 +5,7 @@ I'm a software developer who is always striving to learn new technologies! You t
 ## Find me online! :globe_with_meridians:
  - [LinkedIn](https://www.linkedin.com/in/gage-lieble/)
  - [Portfolio](https://www.gagelieble.com/)
-
+ - [gagelieble@hotmail.com](mailto:gagelieble@hotmail.com)
 
 
 <br>
