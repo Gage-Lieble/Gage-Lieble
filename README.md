@@ -12,6 +12,6 @@ I'm a software developer who is always striving to learn new technologies! You t
 <br>
 
 ## More...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
