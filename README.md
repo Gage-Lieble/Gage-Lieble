@@ -3,11 +3,11 @@
 
 <div align="center">
   
-![Django](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%23323330.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=4584b6)
+![Django](https://img.shields.io/badge/django-EFEFEF.svg?style=for-the-badge&logo=django&logoColor=black)
+![React](https://img.shields.io/badge/react-EFEFEF.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-EFEFEF.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-EFEFEF.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-EFEFEF?style=for-the-badge&logo=python&logoColor=4584b6)
   
 </div>
 
