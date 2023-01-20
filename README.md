@@ -2,6 +2,23 @@
 <img src="https://gagelieble.com/static/portfolio_app/githubfiles/GithubCoverwhite.svg">
 I'm a software developer who is always striving to learn new technologies! You take a look through my Github Repo's to see my progress so far if you'd like. Some languages/frameworks I've enjoyed learning so far include Django, Python, Javascript, React, VueJs as well as the basics, html and css.
 
+<br>
+<br>
+<br>
+ 
+  
+<div align="center">
+  
+![Django](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%23323330.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=4584b6)
+  
+</div>
+  
+<br>
+  
 ## Find me online! :atom:
 
 [![Portfolio]][Port_Link]
