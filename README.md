@@ -2,7 +2,7 @@
 <img src="https://gagelieble.com/static/portfolio_app/githubfiles/GithubCoverwhite.svg">
 I'm a software developer who is always striving to learn new technologies! You take a look through my Github Repo's to see my progress so far if you'd like. Some languages/frameworks I've enjoyed learning so far include Django, Python, Javascript, React, VueJs as well as the basics, html and css.
 
-## Find me online! :globe_with_meridians:
+## Find me online! :battery:
 
 [![Portfolio]][Port_Link]
 
