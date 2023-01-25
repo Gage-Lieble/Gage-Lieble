@@ -44,7 +44,7 @@ I'm a software developer who is always striving to learn new technologies! You t
 <br>
 
 ## More...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&title_color=88CC88&card_width=1000px&bg_color=fafafa&ring_color=88CC88)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&title_color=88CC88&card_width=1000px&bg_color=fafafa&ring_color=88CC88&show_icons=true&icon_color=88CC88)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
