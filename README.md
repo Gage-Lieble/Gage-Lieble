@@ -1,5 +1,5 @@
 # Hey, I'm Gage! :technologist:
-<img src="https://gagelieble.com/static/portfolio_app/githubfiles/GithubCoverwhite.svg">
+<img src="https://gagelieble.com/static/portfolio/imgs/GithubCoverwhite.jpg">
 
 <div align="center">
   
