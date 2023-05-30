@@ -1,4 +1,4 @@
-# Hey, I'm Gage! :technologist:
+# Hey, I'm Gage! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :technologist: 
 <img src="https://gagelieble.com/static/portfolio/imgs/GithubCoverwhite.jpg">
 
 <div align="center">
