@@ -57,4 +57,4 @@ I'm a software developer who is always striving to learn new technologies! You t
 
 [Resume]: https://img.shields.io/badge/Resume->-88CC88?style=for-the-badge&logoColor=white&logo=ReadMe
 
-[Email]: https://img.shields.io/badge/gagelieble@gmail.com->-88CC88?style=for-the-badge&logoColor=white&logo=Mail.Ru
+[Email]: https://img.shields.io/badge/gagelieble@gmail.com->-88CC88?style=for-the-badge&logoColor=white&logo=messenger
