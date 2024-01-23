@@ -45,17 +45,17 @@ I'm a software developer who is always striving to learn new technologies! You t
 <br>
 
 ## More...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&title_color=000000&card_width=1000px&bg_color=EFEFEF&ring_color=90DD90&show_icons=true&icon_color=90DD90)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gage-Lieble&theme=vue&title_color=000000&card_width=1000px&bg_color=EFEFEF&ring_color=5a8567&show_icons=true&icon_color=5a8567)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
 
-[Portfolio]: https://img.shields.io/badge/Portfolio->-88CC88?style=for-the-badge&logoColor=white&logo=WindowsTerminal
+[Portfolio]: https://img.shields.io/badge/Portfolio->-5a8567?style=for-the-badge&logoColor=white&logo=WindowsTerminal
 
-[Linkedin]: https://img.shields.io/badge/Linkedin->-88CC88?style=for-the-badge&logoColor=white&logo=Linkedin
+[Linkedin]: https://img.shields.io/badge/Linkedin->-5a8567?style=for-the-badge&logoColor=white&logo=Linkedin
 
-[Resume]: https://img.shields.io/badge/Resume->-88CC88?style=for-the-badge&logoColor=white&logo=ReadMe
+[Resume]: https://img.shields.io/badge/Resume->-5a8567?style=for-the-badge&logoColor=white&logo=ReadMe
 
-[Email]: https://img.shields.io/badge/gagelieble@gmail.com->-88CC88?style=for-the-badge&logoColor=white&logo=messenger
+[Email]: https://img.shields.io/badge/gagelieble@gmail.com->-5a8567?style=for-the-badge&logoColor=white&logo=messenger
