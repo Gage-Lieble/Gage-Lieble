@@ -1,5 +1,10 @@
-# Hey, I'm Gage! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :technologist: 
+# Hey, I'm Gage! 
+<div style="font-size: 16px;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="65" height="65" />
 <img src="https://gagelieble.com/gitprofile/gage_script.svg">
+  
+</div>
 
 <div align="center">
   
